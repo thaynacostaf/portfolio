@@ -157,8 +157,7 @@ a {
   background-color: transparent;
 }
 a:hover {
-  color: #fa311f;
-  text-decoration: underline;
+  color:#5b84b1;
 }
 
 a:not([href]) {
@@ -10187,16 +10186,18 @@ form .row:first-child .floating-label-form-group {
 .text-black {
   color: #212529;
 }
-p.pre-wrap.lead {
-  text-align: justify;
-  margin-top:1rem;
-}
 p.pre-wrap.lead.mb-0 {
   text-align: center;
 }
 h2.text-center.text-white {
   font-size: 3rem;
   text-align: center;
+}
+p.pre-wrap.lead.left {
+  text-align: right;
+}
+p.pre-wrap.lead.right {
+  text-align: left;
 }
 /* relogio */
 
