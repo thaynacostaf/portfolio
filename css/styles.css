@@ -10194,6 +10194,10 @@ p.pre-wrap.lead {
 p.pre-wrap.lead.mb-0 {
   text-align: center;
 }
+h2.text-center.text-white {
+  font-size: 3rem;
+  text-align: center;
+}
 /* relogio */
 
 .clock {
